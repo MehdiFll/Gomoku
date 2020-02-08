@@ -8,5 +8,4 @@ This game implements IA algorithms as Alpha-Beta and includes the following :
               - User friendly interface
  
  
- Dependencies : Mysql database
               
